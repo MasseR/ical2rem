@@ -1,3 +1,4 @@
+# nix build github:MasseR/ical2rem
 {
   description = "A very basic flake";
   inputs = {
